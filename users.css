@@ -1,0 +1,18 @@
+body {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+
+.table {
+    border: 1px solid gray;
+}
+
+form {
+    max-width: 400px;
+    margin-bottom: 20px; 
+}
+
+.red {
+    color: red;
+}
